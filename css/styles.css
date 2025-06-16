@@ -3719,6 +3719,7 @@ td:last-child {
 .school-logo {
     height: 100px;
     width: auto;
+    filter: invert(1);
 }
 
 .school-name {
